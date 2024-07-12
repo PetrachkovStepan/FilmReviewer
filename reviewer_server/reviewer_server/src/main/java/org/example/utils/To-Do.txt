@@ -1,0 +1,33 @@
+To-DO
+-----------------------
+User
+-create++
+-delete++
+-update++
+-readAll++
+
+ToWatch
+-create+
+-delete+
+-readAll+
+
+Comment
+-create+
+-readAllByFilm+
+-delete+
+
+CurrentRating
+-create+
+-update+
+-readByFilm+
+
+GeneralRating
+-create++
+-update+
+-readByFilm+
+
+--добавить поля в юзера
+
+
+Front -> currentRating -> create/update currentRating ->
+-> update generalRating
